@@ -1,5 +1,5 @@
 import { useNavigate } from "react-router-dom";
-import { IArticles } from "types";
+import { IArticles } from "../../types";
 import { motion } from "framer-motion";
 import {
   Details,

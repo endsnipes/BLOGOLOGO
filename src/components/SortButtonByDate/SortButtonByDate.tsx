@@ -1,4 +1,4 @@
-import { SortButton } from "components";
+import { SortButton } from "../../components";
 import { useState } from "react";
 
 export const SortButtonByDate = () => {

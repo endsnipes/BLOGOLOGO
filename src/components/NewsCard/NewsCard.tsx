@@ -1,4 +1,4 @@
-import { INews } from "types";
+import { INews } from "../../types";
 import { FigCaption, Figure, FigureDate, FigureDisc, NewsElements, Image } from "./styles";
 
 interface IProps {

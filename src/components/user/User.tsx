@@ -1,5 +1,5 @@
-import { UserIcon, UserLogoutIcon } from "assets";
-import { getUser, toggleAuth, useAppDispatch, useAppSelector } from "store";
+import { UserIcon, UserLogoutIcon } from "../../assets";
+import { getUser, toggleAuth, useAppDispatch, useAppSelector } from "../../store";
 import { ImageText, StyledUserProfile, Image, Info, Name, Btn } from "./styles";
 
 export const User = () => {

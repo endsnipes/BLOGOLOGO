@@ -1,6 +1,6 @@
 import { generatePath, Link } from "react-router-dom";
-import { ROUTE } from "router";
-import { IArticles } from "types";
+import { ROUTE } from "../../routers";
+import { IArticles } from "../../types";
 import { FigCaption, Figure, FigureDate, FigureDisc, ArticlesElement, Image } from "./styles";
 
 interface IProps {

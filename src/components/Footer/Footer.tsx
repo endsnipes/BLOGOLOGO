@@ -1,4 +1,4 @@
-import { Toggle } from "components";
+import { Toggle } from "../../components";
 import { useEffect, useState } from "react";
 import { StyledFooter, TextFooter } from "./styles";
 

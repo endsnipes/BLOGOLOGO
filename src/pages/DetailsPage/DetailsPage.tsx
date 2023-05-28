@@ -1,7 +1,7 @@
-import { ArticlesDetails, Spinner } from "components";
+import { ArticlesDetails, Spinner } from "../../components";
 import { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
-import { fetchArticleById, getArticlesById, useAppDispatch, useAppSelector } from "store";
+import { fetchArticleById, getArticlesById, useAppDispatch, useAppSelector } from "../../store";
 
 export const DetailsPage = () => {
   const params = useParams();

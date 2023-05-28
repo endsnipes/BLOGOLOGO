@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { SearchIcon } from "assets";
+import { SearchIcon } from "../../assets";
 
 export const StyledSearchIcon = styled(SearchIcon)`
   & path {
