@@ -1,5 +1,5 @@
-import { MainTemplate } from "components";
-import { DetailsPage, MainPage, SearchPage, SignInPage } from "pages";
+import { MainTemplate } from "../components";
+import { DetailsPage, MainPage, SearchPage, SignInPage } from "../pages";
 import { createBrowserRouter, createRoutesFromElements, Route } from "react-router-dom";
 import { ROUTE } from "./routes";
 

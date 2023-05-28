@@ -1,6 +1,8 @@
-import { ArticlesCard, Spinner } from "components";
+
+import { ArticlesCard } from "../ArticlesCard/ArticlesCard";
+import { Spinner } from "../Spinner/Spinner";
 import { useEffect } from "react";
-import { fetchAllArticles, getAllArticles, useAppDispatch, useAppSelector } from "store";
+import { fetchAllArticles,getAllArticles, useAppDispatch, useAppSelector  } from "../../store";
 import { StyledArticles } from "./styles";
 
 export const Articles = () => {
