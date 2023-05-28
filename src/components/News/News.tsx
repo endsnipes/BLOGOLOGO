@@ -1,4 +1,4 @@
-import { NewsCard } from "components";
+import { NewsCard } from "../../components";
 import { useEffect } from "react";
 import { fetchAllNews, getAllNews, useAppDispatch, useAppSelector } from "store";
 

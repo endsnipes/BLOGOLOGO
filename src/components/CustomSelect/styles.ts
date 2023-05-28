@@ -1,5 +1,5 @@
 import { StylesConfig } from "react-select";
-import { Color } from "ui";
+import { Color } from "../../ui";
 import { IOption } from "./CustomSelect";
 
 export const colorStyles: StylesConfig<IOption, false> = {

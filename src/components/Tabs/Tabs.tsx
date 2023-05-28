@@ -1,7 +1,7 @@
-import { Articles, CustomSelect, News, SortButtonByDate, TabsItem } from "components";
+import { Articles, CustomSelect, News, SortButtonByDate, TabsItem } from "../../components";
 
 import { useState } from "react";
-import { ITab } from "types";
+import { ITab } from "../../types";
 import { SortBlock } from "./styles";
 
 export const Tabs = () => {

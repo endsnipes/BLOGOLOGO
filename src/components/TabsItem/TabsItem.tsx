@@ -1,4 +1,4 @@
-import { ITab } from "types";
+import { ITab } from "../../types";
 import { StyledTabsItem, Tab } from "./styles";
 
 export interface ITabsProps {

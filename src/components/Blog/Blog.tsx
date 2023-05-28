@@ -1,4 +1,4 @@
-import { Tabs } from "components";
+import { Tabs } from "../Tabs/Tabs";
 import { StyledBlog } from "./styles";
 
 export const Blog = () => {

@@ -1,5 +1,5 @@
-import { useDebounce } from "./useDebounce";
-import { useInput } from "./useInput";
-import { useToggle } from "./useToggle";
+export * from "./useDebounce";
+export * from "./useInput";
+export * from "./useToggle";
 
-export { useDebounce, useInput, useToggle };
+

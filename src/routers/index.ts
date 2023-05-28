@@ -1,3 +1,2 @@
-import { router } from "./router";
-import { ROUTE } from "./routes";
-export { router, ROUTE };
+export * from "./router";
+export * from "./routes";
