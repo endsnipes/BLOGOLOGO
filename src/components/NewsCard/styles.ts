@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Color, Typography } from "ui";
+import { Color, Typography } from "../../ui";
 
 export const NewsElements = styled.li`
   transition: all 0.2s ease-in-out;
