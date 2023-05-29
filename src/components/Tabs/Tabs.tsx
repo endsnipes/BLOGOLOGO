@@ -1,4 +1,4 @@
-import { Articles, CustomSelect, News, SortButtonByDate, TabsItem } from "../../components";
+import { Articles, CustomSelect, News, SortButtonByDate, TabsItem } from "..";
 
 import { useState } from "react";
 import { ITab } from "../../types";

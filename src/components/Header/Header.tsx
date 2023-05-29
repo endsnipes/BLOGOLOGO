@@ -1,5 +1,5 @@
 import { LogoIcon } from "../../assets";
-import { Search, User } from "../../components";
+import { Search, User } from "..";
 import { StyledHeader } from "./styles";
 
 export const Header = () => {
